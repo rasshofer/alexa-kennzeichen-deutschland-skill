@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "alexa-kennzeichen-deutschland-skill",
+  "version": "0.0.1",
+  "scripts": {
+    "helpers-slots": "node helpers/slots.js",
+    "helpers-json": "node helpers/json.js",
+    "lambda-bundle": "cd lambda && zip -r ../lambda.zip ."
+  },
+  "devDependencies": {
+    "js-yaml": "^3.7.0"
+  }
+}

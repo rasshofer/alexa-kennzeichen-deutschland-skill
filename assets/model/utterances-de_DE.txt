@@ -1,0 +1,4 @@
+GetAbbreviationIntent {Abbreviation}
+GetAbbreviationIntent Kennzeichen {Abbreviation}
+GetAbbreviationIntent Kennzeichen für {Abbreviation}
+GetAbbreviationIntent Kennzeichen von {Abbreviation}

@@ -1,0 +1,15 @@
+{
+  "intents": [{
+    "intent": "GetAbbreviationIntent",
+    "slots": [{
+      "name": "Abbreviation",
+      "type": "ABBREVIATIONS"
+    }]
+  }, {
+    "intent": "AMAZON.HelpIntent"
+  }, {
+    "intent": "AMAZON.StopIntent"
+  }, {
+    "intent": "AMAZON.CancelIntent"
+  }]
+}

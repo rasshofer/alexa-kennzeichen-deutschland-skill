@@ -1,0 +1,3 @@
+[submodule "vendor/kennzeichen"]
+	path = vendor/kennzeichen
+	url = https://github.com/offene-daten/kennzeichen.git
